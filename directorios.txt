@@ -1,0 +1,13 @@
+total 44
+drwxrwxrwx+ 8 codespace root      4096 May 18 03:01 .
+drwxr-xrwx+ 5 codespace root      4096 Apr 25 02:10 ..
+drwxrwxrwx+ 8 codespace root      4096 May 18 02:57 .git
+-rw-rw-rw-  1 codespace root        23 Apr 25 02:10 README.md
+drwxrwxrwx+ 2 codespace codespace 4096 Apr 25 02:46 assets
+drwxrwxrwx+ 2 codespace codespace 4096 Apr 25 02:46 bin
+-rw-rw-rw-  1 codespace codespace    0 May 18 03:01 directorios.txt
+drwxrwxrwx+ 2 codespace codespace 4096 May 18 03:00 docs
+-rw-rw-rw-  1 codespace codespace   29 May 18 03:01 fecha.txt
+drwxrwxrwx+ 2 codespace codespace 4096 May 18 03:00 include
+-rw-rw-rw-  1 codespace codespace  217 May 18 02:57 index.html
+drwxrwxrwx+ 2 codespace codespace 4096 May 18 02:57 src
